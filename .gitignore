@@ -1,0 +1,6 @@
+ext/Makefile
+ext/*.out
+ext/*.o
+ext/*.log
+lib/
+ext/*.so
